@@ -1,0 +1,7 @@
+# Sekrety
+.env
+.ipynb_checkpoints/
+desktop.ini
+db
+.vscode
+logs.log
